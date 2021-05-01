@@ -1,4 +1,4 @@
- Text-Based-Adventure-Game
+# Text-Based-Adventure-Game
 My First Python Project Using OOP Programming
 
 Battle the seven seas in a game reliant on nothing but probabilities by finding treasure and building up your crew.
